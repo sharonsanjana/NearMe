@@ -48,6 +48,7 @@ Execute the programs and publish them.
 
 ## OUTPUT
 ![Alt text](image.jpeg)
+![Alt text](image.png)
 ![Alt text](image1.jpeg)
 ## HTML VALIDATOR
 
